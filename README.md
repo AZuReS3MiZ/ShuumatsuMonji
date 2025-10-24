@@ -1,6 +1,6 @@
 # Shuumatsu Monji Project / “終末文字”项目
 
-## What is "Shuumatsu Monji"? /什么是“終末文字”
+## What is "Shuumatsu Monji"? /什么是“終末文字”？
 Shuumatsu Monji, or "終末文字" in Japanese Kanji, is a type of font used in Comic & TV Anime "Girls' Last Tour".<br>
 [This](https://en.wikipedia.org/wiki/Girls%27_Last_Tour) is the Wikipedia page of GLT, with some simple introduction.<br>
 终末文字（しゅうまつもんじ）是漫画和TV动画“少女终末旅行”中出现的一种字体。<br>
