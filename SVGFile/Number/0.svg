@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 29.4.0, SVG Export Plug-In . SVG Version: 9.03 Build 0)  -->
+<svg version="1.1" id="&#x56FE;&#x5C42;_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 500 800" style="enable-background:new 0 0 500 800;" xml:space="preserve">
+<g>
+	<rect x="0.5" y="0.5" width="99" height="799"/>
+	<path d="M99,1v798H1V1H99 M100,0H0v800h100V0L100,0z"/>
+</g>
+<g>
+	<rect x="400.5" y="0.5" width="99" height="799"/>
+	<path d="M499,1v798h-98V1H499 M500,0H400v800h100V0L500,0z"/>
+</g>
+<g>
+	<rect x="0.5" y="0.5" width="499" height="19"/>
+	<path d="M499,1v18H1V1H499 M500,0H0v20h500V0L500,0z"/>
+</g>
+<g>
+	<rect x="0.5" y="780.5" width="499" height="19"/>
+	<path d="M499,781v18H1v-18H499 M500,780H0v20h500V780L500,780z"/>
+</g>
+<polygon style="stroke:#000000;stroke-miterlimit:10;" points="0,800 100,800 500,0 400,0 "/>
+</svg>

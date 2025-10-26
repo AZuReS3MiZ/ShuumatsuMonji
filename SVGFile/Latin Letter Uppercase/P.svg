@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 29.4.0, SVG Export Plug-In . SVG Version: 9.03 Build 0)  -->
+<svg version="1.1" id="&#x56FE;&#x5C42;_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 500 800" style="enable-background:new 0 0 500 800;" xml:space="preserve">
+<g>
+	<rect x="0.5" y="0.5" width="99" height="799"/>
+	<path d="M99,1v798H1V1H99 M100,0H0v800h100V0L100,0z"/>
+</g>
+<g>
+	<rect x="400.5" y="0.5" width="99" height="284"/>
+	<path d="M499,1v283h-98V1H499 M500,0H400v285h100V0L500,0z"/>
+</g>
+<g>
+	<rect x="0.5" y="0.5" width="499" height="19"/>
+	<path d="M499,1v18H1V1H499 M500,0H0v20h500V0L500,0z"/>
+</g>
+<g>
+	<path d="M250,384.5c-27.294,0-49.5-22.206-49.5-49.5s22.206-49.5,49.5-49.5c27.294,0,49.5,22.206,49.5,49.5
+		S277.294,384.5,250,384.5z"/>
+	<path d="M250,286c27.019,0,49,21.981,49,49s-21.981,49-49,49s-49-21.981-49-49S222.981,286,250,286 M250,285
+		c-27.614,0-50,22.386-50,50s22.386,50,50,50s50-22.386,50-50S277.614,285,250,285L250,285z"/>
+</g>
+</svg>

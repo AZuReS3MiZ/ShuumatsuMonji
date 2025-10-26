@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 800">
+  <g>
+    <rect x="100.5" y=".5" width="99" height="799"/>
+    <path d="M199,1v798h-98V1h98M200,0h-100v800h100V0h0Z"/>
+  </g>
+  <g>
+    <rect x="100.5" y=".5" width="299" height="19"/>
+    <path d="M399,1v18H101V1h298M400,0H100v20h300V0h0Z"/>
+  </g>
+  <g>
+    <rect x="100.5" y="780.5" width="299" height="19"/>
+    <path d="M399,781v18H101v-18h298M400,780H100v20h300v-20h0Z"/>
+  </g>
+  <g>
+    <rect x=".5" y="350.5" width="99" height="99"/>
+    <path d="M99,351v98H1v-98h98M100,350H0v100h100v-100h0Z"/>
+  </g>
+</svg>
