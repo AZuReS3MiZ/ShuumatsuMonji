@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1761573000
-ModificationTime: 1761576215
+ModificationTime: 1761577561
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -36,6 +36,7 @@ HheadAscent: 0
 HheadAOffset: 1
 HheadDescent: 0
 HheadDOffset: 1
+OS2Vendor: 'PfEd'
 MarkAttachClasses: 1
 DEI: 91125
 Encoding: UnicodeBmp
@@ -949,11 +950,6 @@ SplineSet
  0 -205 l 1
  0 -179 l 1
  640 -179 l 1
-192 120 m 0
- 157 120 129 93 129 58 c 0
- 129 23 157 -5 192 -5 c 0
- 227 -5 255 23 255 58 c 0
- 255 93 227 120 192 120 c 0
 192 122 m 1
  192 122 l 1
  227 122 256 93 256 58 c 0
@@ -961,7 +957,6 @@ SplineSet
  157 -6 128 23 128 58 c 0
  128 93 157 122 192 122 c 1
 EndSplineSet
-Validated: 5
 EndChar
 
 StartChar: e
