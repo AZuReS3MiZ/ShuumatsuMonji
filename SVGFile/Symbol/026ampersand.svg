@@ -1,18 +1,32 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
-<!-- Generator: Adobe Illustrator 29.4.0, SVG Export Plug-In . SVG Version: 9.03 Build 0)  -->
-<svg version="1.1" id="&#x56FE;&#x5C42;_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
-	 y="0px" viewBox="0 0 500 800" style="enable-background:new 0 0 500 800;" xml:space="preserve">
-<g>
-	<rect x="400.5" y="0.5" width="99" height="799"/>
-	<path d="M499,1v798h-98V1H499 M500,0H400v800h100V0L500,0z"/>
-</g>
-<g>
-	<rect x="10.5" y="0.5" width="489" height="19"/>
-	<path d="M499,1v18H11V1H499 M500,0H10v20h490V0L500,0z"/>
-</g>
-<g>
-	<rect x="0.5" y="780.5" width="499" height="19"/>
-	<path d="M499,781v18H1v-18H499 M500,780H0v20h500V780L500,780z"/>
-</g>
-<polygon style="stroke:#000000;stroke-miterlimit:10;" points="0,0 400,800 500,800 100,0 "/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 502.41 800.5">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+    </style>
+  </defs>
+  <g>
+    <rect x="1.71" y=".5" width="99" height="799"/>
+    <path d="M100.21,1v798H2.21V1h98M101.21,0H1.21v800h100V0h0Z"/>
+  </g>
+  <g>
+    <rect x="401.71" y=".5" width="99" height="409"/>
+    <path d="M500.21,1v408h-98V1h98M501.21,0h-100v410h100V0h0Z"/>
+  </g>
+  <g>
+    <rect x="1.71" y=".5" width="499" height="19"/>
+    <path d="M500.21,1v18H2.21V1h498M501.21,0H1.21v20h500V0h0Z"/>
+  </g>
+  <g>
+    <rect x="1.71" y="780.5" width="299" height="19"/>
+    <path d="M300.21,781v18H2.21v-18h298M301.21,780H1.21v20h300v-20h0Z"/>
+  </g>
+  <g>
+    <rect x="1.71" y="390.5" width="499" height="19"/>
+    <path d="M500.21,391v18H2.21v-18h498M501.21,390H1.21v20h500v-20h0Z"/>
+  </g>
+  <polygon class="cls-1" points="1.21 400 101.21 400 501.21 800 401.21 800 1.21 400"/>
 </svg>
