@@ -22,7 +22,7 @@ You can download the font in the Release page. And you should install this font 
 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 > This license enables reusers to distribute, remix, adapt, and build upon the material in any medium or format for noncommercial purposes only, and only so long as attribution is given to the creator. If you remix, adapt, or build upon the material, you must license the modified material under identical terms.<br><br>
 >本许可允许再使用者出于非商业目的，以任何媒介或格式对资料进行分发、混音、改编和扩充，但必须注明创作者。如果您对材料进行再混合、改编或构建，您必须根据相同的条款许可修改后的材料。<br><br>
-> --[creativecommons.org](creativecommons.org)
+> --creativecommons.org
 
 <hr>
 Thanks to Tsukumizu(つくみず), the artist of the comic, and White Foxs, the producer of the anime.<br><br>
