@@ -29,5 +29,7 @@ Thanks to Tsukumizu(つくみず), the artist of the comic, and White Foxs, the 
 感谢漫画作者つくみず和动画制作White Foxs。<br>
 <hr>
 <sub>The English version of README.md translated by me without using translator. Feel free to speak it out if there's any grammar issues or content error.</sub><br>
+<hr>
 <sub>Please notice that js isn't the main part of the repository. It happened because there's one and only js file there.The project was made of Adobe Illustrator and Fontforge.</sub><br>
 <sub>注意：JavaScript不是本仓库主要的使用语言，只是因为这个仓库里恰好有一份js文件。本项目由Adobe Illustrator和FontForge实现。</sub>
+<hr>
