@@ -24,12 +24,12 @@ I would show you the design process...for katakana and capital letters? I just w
 ![Draft](https://github.com/user-attachments/assets/70fe14fd-5c32-4a03-bd0c-3ed77cd700ff)
 <sub>It actually is my draft book lol</sub>
 
-## 你使用了什么工具？
+## What tools did you use?
 Adobe Illustrator & FontForge，Ai is used to make the shape of the font and ff is used to generate the font.<br>
 I use Gothic onceAs I learnt a method from [this video](https://www.bilibili.com/video/BV1qcWJzoEt2/).(But I don't use it now.)<br>
 I also used Adobe Photoshop to make those preview images (but I was so lazy that I didn't leave the source files)<br>
 
-## 你有使用AI吗？
+## Did you use AI?
 There is, isn't there? Errr... (heartfelt)<br>
 I do use AI a little bit, but it's to help me write a program to batch export .ai files to .svg files.<br>
 Everything else is "hand rubbed" by me.<br>
