@@ -5,7 +5,7 @@
 2025年春我第一次看了漫画。或者说——第一次弄到漫画。是朋友买的盗版书。看完了，有一种说不出来的感觉。<br>
 然后我跟我那个朋友分开了。<br>
 暑假的时候，我在我那个城市的一家书店逛的时候，看到了简体中文版的少末漫画，所以直接拿下了。<br>
-
+![Bookshelf](https://github.com/user-attachments/assets/4b4dade9-0545-4100-b526-24f4e04b4cdb)
 <sub>虽然那一套的翻译很是问题，从观感上还不如盗版的那套——那套好歹是台版的翻译，ok？</sub><br>
 <sub>那一套第四卷“千户的日记”那一部分没有翻译……写的是终末文字……</sub><br>
 
@@ -20,9 +20,9 @@
 我的习惯是观察这些字体的共同点，找出可以作为这些字体的模板的东西，然后开整。<br>
 设定集提供的平假名设计确实可以作为线索来进行片假名的设计，小写字母的设计也可以作为大写字母的线索。<br>
 因此，只要在模板上进行修改，就可以很方便地“作字”了。<br>
-
+![HowDoIMake](https://github.com/user-attachments/assets/269fa6ba-f5bb-46ea-8df1-4da44f2d6f2a)
 我可以给你们看看片假名和大写字母的设计……流程？我只是想到什么写什么而已。<br>
-
+![Draft](https://github.com/user-attachments/assets/70fe14fd-5c32-4a03-bd0c-3ed77cd700ff)
 <sub>其实这就是我的草稿本</sub>
 
 ## 你使用了什么工具？
@@ -77,5 +77,8 @@ function get_ai_files(folder, files_array) {
 
 ## 还有什么想说的吗？
 一周内这个仓库被查看了200次左右。虽然不多，但还是谢谢你们！<br>
-
+<img width="1379" height="1215" alt="GithubView" src="https://github.com/user-attachments/assets/4c17e1f0-3248-486c-91c4-30e27edbebba" />
 <hr>
+![Thankyou](https://github.com/user-attachments/assets/9427e747-605e-4ed9-b20e-53fd4b0fa398)
+<hr>
+Semi-Minus"半色" & HourGLASS"砂時計" 谨上。
