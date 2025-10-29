@@ -28,6 +28,7 @@
 
 ## 你使用了什么工具？
 Adobe Illustrator 和 FontForge，Ai用来做字体的形状，ff用来生成字体。<br>
+之前还使用Gothic来进行描边（方法来自[这个视频](https://www.bilibili.com/video/BV1qcWJzoEt2/)）（不过现在不用了）<br>
 如果你要说，我还用了Adobe Photoshop来制作那几张预览图（不过我很懒以至于我没留源文件）<br>
 
 ## 你有使用AI吗？
@@ -74,7 +75,8 @@ function get_ai_files(folder, files_array) {
 ## 之后的计划是什么？
 我？我还有很多事情要干。<br>
 首先我朋友那里有一些活给我干，然后我自己也给自己找了些活。<br>
-这些活都不简单，因此最近可能不会有空在Github上活动了。<br>
+这些活都不简单，但是我尽力。<br>
+<sub>顺便支持一下我朋友的项目“[Hanoi_raylib](https://github.com/Science-ch/Hanoi_raylib)”吧谢谢</sub>
 
 ## 还有什么想说的吗？
 一周内这个仓库被查看了200次左右。虽然不多，但还是谢谢你们！<br>
