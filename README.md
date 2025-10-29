@@ -1,4 +1,4 @@
-![Title](https://github.com/user-attachments/assets/e243bc8f-5517-4301-be1f-38ca45ad0f62)<br>
+<img width="915" height="215" alt="Title" src="https://github.com/user-attachments/assets/6df902f5-7dd2-4ed6-a5f5-92b3464cb5b6" /><br>
 
 This is the category of my project, "Shuumatsu Monji".<br>
 这是我的项目“終末文字”的仓库。<br>
