@@ -12,6 +12,7 @@
 ## 你为什么会想做这个项目？
 > 我在网上找到了少末动画的设定集，其中一页吸引了我的注意。<br>
 > (来自OldREADME.md)<br>
+
 不得不提的是少末贴吧确实比较善良，有[一个帖子](https://tieba.baidu.com/p/9221977936)整理了吧里的（几乎所有）资源，想找到这些东西确实非常容易。<br>
 <sub>而且这条帖子在吧里还是置顶的……伟大……</sub><br>
 这就不得不让我想到之前找幸运星漫画资源的痛苦了……扯远了哈。<br>
@@ -79,6 +80,6 @@ function get_ai_files(folder, files_array) {
 一周内这个仓库被查看了200次左右。虽然不多，但还是谢谢你们！<br>
 <img width="1379" height="1215" alt="GithubView" src="https://github.com/user-attachments/assets/4c17e1f0-3248-486c-91c4-30e27edbebba" />
 <hr>
-![Thankyou](https://github.com/user-attachments/assets/9427e747-605e-4ed9-b20e-53fd4b0fa398)
+<img width="1920" height="1080" alt="ThankYou" src="https://github.com/user-attachments/assets/9427e747-605e-4ed9-b20e-53fd4b0fa398" />
 <hr>
 Semi-Minus"半色" & HourGLASS"砂時計" 谨上。
