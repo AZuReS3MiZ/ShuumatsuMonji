@@ -1,5 +1,5 @@
 ## How did you come across Girls' Last Tour?
-I learnt it from [an uploader](https://space.bilibili.com/108745110)of Bilibili who make fanmade-animation of GLT.<br>
+I learnt it from [an uploader](https://space.bilibili.com/108745110) of Bilibili who make fanmade-animation of GLT.<br>
 <sub>He played *Plague Inc.* before 2020 which attracted me to watch his video.</sub><br>
 I love the anime when I watched it for the first time in 2020. But I don't know about the manga.<br>
 In spring 2025, I read the manga for the first time. It was a ral shock for me.<br>
