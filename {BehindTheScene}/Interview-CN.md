@@ -5,7 +5,7 @@
 2025年春我第一次看了漫画。或者说——第一次弄到漫画。是朋友买的盗版书。看完了，有一种说不出来的感觉。<br>
 然后我跟我那个朋友分开了。<br>
 暑假的时候，我在我那个城市的一家书店逛的时候，看到了简体中文版的少末漫画，所以直接拿下了。<br>
-![Bookshelf](https://github.com/user-attachments/assets/4b4dade9-0545-4100-b526-24f4e04b4cdb)
+![Bookshelf](https://github.com/user-attachments/assets/adb4f2a4-4fb1-4331-a91d-169629a109bc)
 <sub>虽然那一套的翻译很是问题，从观感上还不如盗版的那套——那套好歹是台版的翻译，ok？</sub><br>
 <sub>那一套第四卷“千户的日记”那一部分没有翻译……写的是终末文字……</sub><br>
 

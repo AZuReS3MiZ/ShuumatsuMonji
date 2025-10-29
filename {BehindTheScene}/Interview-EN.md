@@ -4,7 +4,7 @@ I learnt it from [an uploader](https://space.bilibili.com/108745110)of Bilibili 
 I love the anime when I watched it for the first time in 2020. But I don't know about the manga.<br>
 In spring 2025, I read the manga for the first time. It was a ral shock for me.<br>
 I bought the Simplified Chinese version of GLT manga in the summer.<br>
-![Bookshelf](https://github.com/user-attachments/assets/4b4dade9-0545-4100-b526-24f4e04b4cdb)
+![Bookshelf](https://github.com/user-attachments/assets/adb4f2a4-4fb1-4331-a91d-169629a109bc)
 <sub>But it has a bad translation. And "Chito's Diary" in vol.4 was write in Shuumatsu Monji...</sub><br>
 <sub>Can't they just use the Taiwan version of translation?</sub><br>
 
