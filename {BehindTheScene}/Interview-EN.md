@@ -4,7 +4,7 @@ I learnt it from [an uploader](https://space.bilibili.com/108745110) of Bilibili
 I love the anime when I watched it for the first time in 2020. But I don't know about the manga.<br>
 In spring 2025, I read the manga for the first time. It was a ral shock for me.<br>
 I bought the Simplified Chinese version of GLT manga in the summer.<br>
-![Bookshelf](https://github.com/user-attachments/assets/adb4f2a4-4fb1-4331-a91d-169629a109bc)
+![Bookshelf](https://github.com/user-attachments/assets/3f1757c1-00d0-49f4-b2f3-43bf179f610f)<br>
 <sub>But it has a bad translation. And "Chito's Diary" in vol.4 was write in Shuumatsu Monji...</sub><br>
 <sub>Can't they just use the Taiwan version of translation?</sub><br>
 
@@ -21,7 +21,7 @@ The hiragana designs provided in the setting set can indeed be used as clues for
 Therefore, it is easy to make characters by making changes to the template.<br>
 ![HowDoIMake](https://github.com/user-attachments/assets/269fa6ba-f5bb-46ea-8df1-4da44f2d6f2a)
 I would show you the design process...for katakana and capital letters? I just write whatever comes to mind.<br>
-![Draft](https://github.com/user-attachments/assets/70fe14fd-5c32-4a03-bd0c-3ed77cd700ff)
+![Draft](https://github.com/user-attachments/assets/adb4f2a4-4fb1-4331-a91d-169629a109bc)
 <sub>It actually is my draft book lol</sub>
 
 ## What tools did you use?
