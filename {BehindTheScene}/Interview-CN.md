@@ -5,7 +5,7 @@
 2025年春我第一次看了漫画。或者说——第一次弄到漫画。是朋友买的盗版书。看完了，有一种说不出来的感觉。<br>
 然后我跟我那个朋友分开了。<br>
 暑假的时候，我在我那个城市的一家书店逛的时候，看到了简体中文版的少末漫画，所以直接拿下了。<br>
-![Bookshelf](https://github.com/user-attachments/assets/adb4f2a4-4fb1-4331-a91d-169629a109bc)
+![Bookshelf](https://github.com/user-attachments/assets/3f1757c1-00d0-49f4-b2f3-43bf179f610f)<br>
 <sub>虽然那一套的翻译很是问题，从观感上还不如盗版的那套——那套好歹是台版的翻译，ok？</sub><br>
 <sub>那一套第四卷“千户的日记”那一部分没有翻译……写的是终末文字……</sub><br>
 
@@ -23,7 +23,7 @@
 因此，只要在模板上进行修改，就可以很方便地“作字”了。<br>
 ![HowDoIMake](https://github.com/user-attachments/assets/269fa6ba-f5bb-46ea-8df1-4da44f2d6f2a)
 我可以给你们看看片假名和大写字母的设计……流程？我只是想到什么写什么而已。<br>
-![Draft](https://github.com/user-attachments/assets/70fe14fd-5c32-4a03-bd0c-3ed77cd700ff)
+![Draft](https://github.com/user-attachments/assets/adb4f2a4-4fb1-4331-a91d-169629a109bc)
 <sub>其实这就是我的草稿本</sub>
 
 ## 你使用了什么工具？
