@@ -24,6 +24,7 @@ See Release pages for more info and full preview.<br><br>
 You can download the font in the Release page. And you should install this font to your computer before you use it.<br>
 > Note:<br>
 > Versions after v2.0 contain 3 types of fonts. You should know which version you want before you download it.<br><br>
+
 你可以在Release页面下载这种字体。别忘了需要先安装才能使用这种字体。<br>
 > 注意：<br>
 > v2.0之后的版本均包含3个类型的字体文件。请在下载前弄清楚你需要的是哪个版本，
