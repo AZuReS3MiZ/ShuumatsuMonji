@@ -4,7 +4,7 @@ I learnt it from [an uploader](https://space.bilibili.com/108745110) of Bilibili
 I love the anime when I watched it for the first time in 2020. But I don't know about the manga.<br>
 In spring 2025, I read the manga for the first time. It was a ral shock for me.<br>
 I bought the Simplified Chinese version of GLT manga in the summer.<br>
-![Bookshelf](https://github.com/user-attachments/assets/3f1757c1-00d0-49f4-b2f3-43bf179f610f)<br>
+![Bookshelf](./Aftermaths/Bookshelf.png)<br>
 <sub>But it has a bad translation. And "Chito's Diary" in vol.4 was write in Shuumatsu Monji...</sub><br>
 <sub>Can't they just use the Taiwan version of translation?</sub><br>
 
@@ -19,14 +19,14 @@ But what about *Lucky Star*? Well...It sucked. But I wouldn't talk it now.
 My method is to look at what these fonts have in common, figure out what can be used as a template for these fonts, and then open up the whole thing.<br>
 The hiragana designs provided in the setting set can indeed be used as clues for katakana, and the lowercase letter designs can also be used as clues for uppercase letters.<br>
 Therefore, it is easy to make characters by making changes to the template.<br>
-![HowDoIMake](https://github.com/user-attachments/assets/269fa6ba-f5bb-46ea-8df1-4da44f2d6f2a)
+![HowDoIMake](./Aftermaths/HowDoIMake.jpg)
 I would show you the design process...for katakana and capital letters? I just write whatever comes to mind.<br>
-![Draft](https://github.com/user-attachments/assets/adb4f2a4-4fb1-4331-a91d-169629a109bc)
+![Draft](./Aftermaths/Draft.png)
 <sub>It actually is my draft book lol</sub>
 
 ## What tools did you use?
 Adobe Illustrator & FontForge，Ai is used to make the shape of the font and ff is used to generate the font.<br>
-I use Gothic onceAs I learnt a method from [this video](https://www.bilibili.com/video/BV1qcWJzoEt2/).(But I don't use it now.)<br>
+I use Gothic once as I learnt a method from [this video](https://www.bilibili.com/video/BV1qcWJzoEt2/).(But I don't use it now.)<br>
 I also used Adobe Photoshop to make those preview images (but I was so lazy that I didn't leave the source files)<br>
 
 ## Did you use AI?
@@ -78,9 +78,9 @@ None of these jobs are easy, but I'll do my best.<br>
 
 ## Any other words?
 This respository was viewed about 200 times in a week. It's not a lot, but thank you all!<br>
-<img width="1379" height="1215" alt="GithubView" src="https://github.com/user-attachments/assets/4c17e1f0-3248-486c-91c4-30e27edbebba" />
+![GithubView](./Aftermaths/GithubView.png)
 <hr>
-<img width="1920" height="1080" alt="ThankYou" src="https://github.com/user-attachments/assets/9427e747-605e-4ed9-b20e-53fd4b0fa398" />
+![ThankYou](./Aftermaths/Thankyou.jpg)
 <hr>
-Sincerely,
+Sincerely,<br>
 Semi-Minus"半色" & HourGLASS"砂時計" .
