@@ -11,7 +11,7 @@ Following picture, from the Art Book of GLT Anime,  is a simple introduction to 
 以下链接包含对《少女终末旅行》的介绍。  [维基百科](https://zh.wikipedia.org/wiki/%E5%B0%91%E5%A5%B3%E7%B5%82%E6%9C%AB%E6%97%85%E8%A1%8C)  /  [百度百科（仅动画）](https://baike.baidu.com/item/%E5%B0%91%E5%A5%B3%E7%BB%88%E6%9C%AB%E6%97%85%E8%A1%8C/21514450)<br>
 以下的图片（摘自少女终末旅行动画设定集）是对这种字体的简单介绍。<br>
 <br>
-![少末设定集第80页](https://github.com/user-attachments/assets/d3d33931-428e-4c83-80f2-af0b46390c9c)<br>
+![少末设定集第80页](./BehindTheScene/Preview/ABP82.jpg)<br>
 
 Attention that the font I create include self-create characters that not included in original work(GLT manga/anime) such as **Katakana**, **Uppercase Letter** and **ASCII Symbol**. <br>
 <sub><del>To clarify, most of monographs with diacritics wasn't mention in the page, too. And it is made by myself.</del></sub><br><br>
@@ -44,7 +44,7 @@ B版本包括平假名、**片假名**、数字、小写字母和**大写字母*
 C版本除了B版本包含的内容外还有**ASCII符号**。
 
 ## Preview / 预览
-![Preview预览](./{BehindTheScene}/Preview/READMEPreview.png)
+![Preview预览](./BehindTheScene/Preview/READMEPreview.png)
 
 ## Current Status / 项目现状
 
