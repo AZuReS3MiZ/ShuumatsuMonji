@@ -98,3 +98,4 @@ function get_ai_files(folder, files_array) {
 <hr>
 
 Semi-Minus"半色" & HourGLASS"砂時計" 谨上。
+
