@@ -23,7 +23,9 @@ Attention that the font I create include self-create characters that not include
 
 You can download the font in the Release page. And you should install this font to your computer before you use it.<br>
 > Note:<br>
-> Versions after v2.0 contain 3 types of fonts. You should know which version you want before you download it.<br><br>
+> Versions after v2.0 contain 3 types of fonts. You should know which version you want before you download it.
+
+<br>
 
 你可以在Release页面下载这种字体。别忘了需要先安装才能使用这种字体。<br>
 > 注意：<br>
@@ -62,7 +64,6 @@ If problems occur when you use it, just throw issues to me. I'll read them.(no g
 [**CC BY-NC-SA 4.0**](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 > This license enables reusers to distribute, remix, adapt, and build upon the material in any medium or format for noncommercial purposes only, and only so long as attribution is given to the creator. If you remix, adapt, or build upon the material, you must license the modified material under identical terms.<br><br>
-
 >本许可允许再使用者出于非商业目的，以任何媒介或格式对资料进行分发、重制、更改和扩充，但必须注明创作者。如果您对材料进行重制、更改或扩充，您必须根据相同的协议许可发布修改后的材料。<br><br>
 > --creativecommons.org
 
