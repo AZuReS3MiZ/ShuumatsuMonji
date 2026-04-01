@@ -18,7 +18,8 @@ Shuumatsu Monji作为我在Github上的第一个公开项目，我为此非常�
 除开学业与字体制作，我还要抽空帮我朋友做《此花亭奇谭》的汉化，也想去翻译几篇文章。<br>
 也许我把自己逼得太狠了。
 <hr>
-如果你确实想要一个终末文字的字体的话，我也许会推荐[noraglyphs](https://x.com/noraglyphs)制作的[GLT-ごぬんね字体](https://booth.pm/ja/items/687528)。<br>
+如果你确实想要一个终末文字的字体的话，我也许会推荐[noraglyphs](https://x.com/noraglyphs) 制作的[GLT-ごぬんね字体](https://booth.pm/ja/items/687528)。
+<br>
 ![GLT-ごぬんね字体](./Aftermaths/GLTgonunnne.png)
 <hr>
 最近去读了Shimeji Simulation。<br>
