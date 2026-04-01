@@ -18,7 +18,7 @@ I’m very sorry. <br>
 Aside from my studies and font design, I’m also trying to find time to help a friend with the Chinese localisation of *The Tale of the Flower Pavilion*, and I’d like to translate a few articles as well. <br>
 Perhaps I’ve been pushing myself too hard.
 <hr>
-If you’re really looking for an ‘End of the World’ style font, I might recommend the [GLT-Gonunnne Font](https://booth.pm/ja/items/687528) created by [noraglyphs](https://x.com/noraglyphs).
+If you’re really looking for an ‘Shuumatsu Monji’ style font, I might recommend the [GLT-Gonunnne Font](https://booth.pm/ja/items/687528) created by [noraglyphs](https://x.com/noraglyphs).
 <hr>
 I’ve recently been reading *Shimeji Simulation*. <br>
 I’m currently listening to GLT’s radio drama *Girls Last Tour ~ Girls Radio Tour ~*. (yes you can literaly find everything in bilibili)<br>
