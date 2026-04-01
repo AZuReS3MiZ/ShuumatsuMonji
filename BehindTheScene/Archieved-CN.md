@@ -19,7 +19,7 @@ Shuumatsu Monji作为我在Github上的第一个公开项目，我为此非常�
 也许我把自己逼得太狠了。
 <hr>
 如果你确实想要一个终末文字的字体的话，我也许会推荐[noraglyphs](https://x.com/noraglyphs)制作的[GLT-ごぬんね字体](https://booth.pm/ja/items/687528)。<br>
-！[GLT-ごぬんね字体](./Aftermaths/GLTgonunnne.png)
+![GLT-ごぬんね字体](./Aftermaths/GLTgonunnne.png)
 <hr>
 最近去读了Shimeji Simulation。<br>
 现在在听少末的广播剧《少女终末旅行 ~ Girls Radio Tour ~》<del>（我说中国淫梦文化分发中心牛逼有没有懂的）</del>
