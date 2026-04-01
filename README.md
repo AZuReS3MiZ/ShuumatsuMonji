@@ -1,3 +1,11 @@
+# This repository is Archived
+This means that this repository will no longer be updated and will become read-only.
+Please read [this](./BehindTheScene/Archieved-EN.md) for more information.
+
+# 本仓库已归档
+这表示这个仓库将不再更新且变为只读。<br>
+请参阅[此文档](./BehindTheScene/Archieved-CN.md)获取原因。
+
 <img width="915" height="215" alt="Title" src="https://github.com/user-attachments/assets/6df902f5-7dd2-4ed6-a5f5-92b3464cb5b6" /><br>
 
 ## So, What is "Shuumatsu Monji"? / 什么是“終末文字”？
